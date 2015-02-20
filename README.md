@@ -16,3 +16,4 @@
 9. FIB - Rabbits and Recurrence Relations
 10. GC - Computing GC Content
 11. HAMM - Counting Point Mutations
+12. IPRB - Mendel's First Law
