@@ -17,3 +17,4 @@
 10. GC - Computing GC Content
 11. HAMM - Counting Point Mutations
 12. IPRB - Mendel's First Law
+13. PROT - Translating RNA into Protein
