@@ -8,6 +8,7 @@
   * INI3 - Strings and Lists
   * INI4 - Conditions and Loops
   * INI5 - Working with Files
+  * INI6 - Dictionaries
 
 ###Bioinformatics Strongold
 6. DNA	- Counting DNA Nucleotides
@@ -18,3 +19,9 @@
 11. HAMM - Counting Point Mutations
 12. IPRB - Mendel's First Law
 13. PROT - Translating RNA into Protein
+
+###Bioinformatics Armory
+* INI -	Introduction to the Bioinformatics Armory
+* DBPR -	Introduction to Protein Databases
+* GBK - GenBank Introduction
+* FRMT	- Data Formats
