@@ -19,6 +19,7 @@
 11. HAMM - Counting Point Mutations
 12. IPRB - Mendel's First Law
 13. PROT - Translating RNA into Protein
+14. SUBS	- Finding a Motif in DNA
 
 ###Bioinformatics Armory
 * INI -	Introduction to the Bioinformatics Armory
