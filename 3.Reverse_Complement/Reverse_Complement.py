@@ -1,3 +1,8 @@
+"""
+What this script does:
+Input: A DNA string s of length at most 1000 bp.
+Return: The reverse complement s**c of s.
+"""
 #Import Sequence File
 import os
 print
