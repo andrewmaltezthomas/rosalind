@@ -26,3 +26,5 @@
 * DBPR -	Introduction to Protein Databases
 * GBK - GenBank Introduction
 * FRMT	- Data Formats
+* TFSQ	- FASTQ format introduction
+* NEED -	Pairwise Global Alignment
