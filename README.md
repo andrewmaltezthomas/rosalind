@@ -28,3 +28,4 @@
 * FRMT	- Data Formats
 * TFSQ	- FASTQ format introduction
 * NEED -	Pairwise Global Alignment
+* SWAT - Pairwise Local Alignment
